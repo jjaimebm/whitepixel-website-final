@@ -22,10 +22,8 @@
       }
     ],
     "paths": {
-      "@/*": [
-        "./src/*"
-      ],
-      "next/*": ["./node_modules/next/*"]
+      "@components/*": ["src/components/*"],
+      "@/*": ["src/*"]
     },
     "target": "ES2017",
     "types": ["node", "react", "react-dom", "next"],

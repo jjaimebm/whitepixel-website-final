@@ -1,20 +1,20 @@
-import { Header } from "@/components/header";
-import { Hero } from "@/components/hero";
-import { SocialProof } from "@/components/social-proof";
-import { Features } from "@/components/features-section";
-import { Testimonials } from "@/components/testimonials";
-import { Faq } from "@/components/faq";
-import { Footer } from "@/components/footer";
+import { Header } from "@components/header";
+import { Hero } from "@components/hero";
+import { SocialProof } from "@components/social-proof";
+import { FeaturesSection } from "@components/features-section";
+import { Testimonials } from "@components/testimonials";
+import { FAQ } from "@components/faq";
+import { Footer } from "@components/footer";
 
-export default function HomePage() {
+export default function Home() {
   return (
-    <main>
+    <main className="flex min-h-screen flex-col">
       <Header />
       <Hero />
       <SocialProof />
-      <Features />
+      <FeaturesSection />
       <Testimonials />
-      <Faq />
+      <FAQ />
       <Footer />
     </main>
   );
