@@ -8,7 +8,7 @@ import { Footer } from "@/components/footer";
 
 export default function HomePage() {
   return (
-    <>
+    <main>
       <Header />
       <Hero />
       <SocialProof />
@@ -16,6 +16,6 @@ export default function HomePage() {
       <Testimonials />
       <Faq />
       <Footer />
-    </>
+    </main>
   );
 }
