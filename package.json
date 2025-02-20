@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "next15-starter",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +39,15 @@
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "tailwind.config.js",
+=======
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+>>>>>>> 2415f8ae698c6b932959c1892b1fe919579737a2
   "keywords": [],
   "author": "",
   "license": "ISC"
