@@ -1,6 +1,6 @@
 import { Frame, Gauge, Download, LayoutDashboard } from "lucide-react";
 
-export function Features() {
+export function FeaturesSection() {
   return (
     <section id="services" className="container flex flex-col items-center gap-6 py-24 sm:gap-7">
       <div className="flex flex-col gap-3">
