@@ -1,6 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "next15-starter",
+  "name": "whitepixel-website",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,37 +16,27 @@
     "clsx": "^2.1.1",
     "framer-motion": "^11.3.28",
     "lucide-react": "^0.381.0",
-    "next": "^15.1.7",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "next": "14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-phone-input-2": "^2.15.1",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@types/next": "^8.0.7",
     "@types/node": "^20.17.19",
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
-    "eslint": "^9.15.0",
-    "eslint-config-next": "^15.0.3",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.1.0",
     "eslint-plugin-tailwindcss": "^3.17.0",
     "postcss": "^8.4.49",
     "prettier": "^3.2.5",
     "tailwindcss": "^3.4.15",
-    "typescript": "^5.7.3"
+    "typescript": "^5.3.3"
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "tailwind.config.js",
-=======
-  "name": "my-new-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
->>>>>>> 2415f8ae698c6b932959c1892b1fe919579737a2
   "keywords": [],
   "author": "",
   "license": "ISC"
